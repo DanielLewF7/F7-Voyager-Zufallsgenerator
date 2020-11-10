@@ -1,0 +1,83 @@
+.rnd-btn {
+    background-color: #edece8;
+    border: none;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+.rnd-btn:hover {
+    cursor: pointer;
+    background-color:  #8ac5c3;
+    transition: linear 0.2s;
+}
+.clear {
+    background-color: #edece8;
+    border: none;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+
+}
+.clear:hover {
+    cursor: pointer;
+    background-color:  #8ac5c3;
+    transition: linear 0.2s;
+}
+#displayArray1 {
+    width: 40%;
+    height: 30px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+#displayArray2 {
+    width: 40%;
+    height: 30px;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+}
+.pe1 {
+    display: none;
+}
+.NewBox {
+    text-align: center;
+    border: 1px solid black;
+    height: 500px;
+    width: 100%;
+    border-radius: 10px;
+    background-color: #8ac5c3;
+    color: black;
+    margin: 50px;
+}
+.NewBox:hover {
+    background-color: #0C7489;
+    transition: linear 0.2s;
+}
+.area {
+    margin-top: 25px;
+    height: 50px;
+}
+#demo {
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+}
+.content {
+    width: 80%;
+    margin: auto;
+    height: 1800px;
+    background-color: #ABAEB3;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.col6 {
+    width: 50%;
+    margin: auto;
+}
