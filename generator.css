@@ -83,3 +83,22 @@
 h1, h2, h3, p {
     font-family: 'Raleway', sans-serif;
 }
+.footer {
+    background-color: #8ac5c3;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    position:absolute;
+    width:100%;
+    height: 80px;
+
+}
+.flinks {
+    text-align: center;
+}
+.imgbox {
+    text-align: center;
+    color: black;
+
+}
